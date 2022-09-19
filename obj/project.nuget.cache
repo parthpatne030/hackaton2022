@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zjY1gCCAwpkasRsHxGs/rDtcaY0NfdJkarVDOlR1uegfwbQ6VV3HIw3+a066A0rWOc1feST1op99G4GxCRdCKQ==",
+  "success": true,
+  "projectFilePath": "/Users/parthpatne/hackaton2022/Microsoft-Teams-Samples/samples/tab-personal/razor-csharp/PersonalTab.csproj",
+  "expectedPackageFiles": [
+    "/Users/parthpatne/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/parthpatne/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/parthpatne/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
